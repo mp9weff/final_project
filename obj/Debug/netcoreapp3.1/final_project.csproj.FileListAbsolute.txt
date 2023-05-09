@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\final_project\bin\Debug\netcoreapp3.1\final_project.exe
+C:\Users\ASUS\source\repos\final_project\bin\Debug\netcoreapp3.1\final_project.deps.json
+C:\Users\ASUS\source\repos\final_project\bin\Debug\netcoreapp3.1\final_project.runtimeconfig.json
+C:\Users\ASUS\source\repos\final_project\bin\Debug\netcoreapp3.1\final_project.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\final_project\bin\Debug\netcoreapp3.1\final_project.dll
+C:\Users\ASUS\source\repos\final_project\bin\Debug\netcoreapp3.1\final_project.pdb
+C:\Users\ASUS\source\repos\final_project\obj\Debug\netcoreapp3.1\final_project.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\final_project\obj\Debug\netcoreapp3.1\final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\final_project\obj\Debug\netcoreapp3.1\final_project.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\final_project\obj\Debug\netcoreapp3.1\final_project.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\final_project\obj\Debug\netcoreapp3.1\final_project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\final_project\obj\Debug\netcoreapp3.1\final_project.dll
+C:\Users\ASUS\source\repos\final_project\obj\Debug\netcoreapp3.1\final_project.pdb
+C:\Users\ASUS\source\repos\final_project\obj\Debug\netcoreapp3.1\final_project.genruntimeconfig.cache

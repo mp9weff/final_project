@@ -1,0 +1,14 @@
+Name: KX-TG2511UAS
+Brand: Panasonic
+Price: 1559 
+HasAnsweringMachine: no
+
+Name: A170
+Brand: Gigaset
+Price: 799 
+HasAnsweringMachine: yes
+
+Name: D2625B
+Brand: Philips
+Price: 1399 
+HasAnsweringMachine: no

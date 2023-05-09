@@ -1,0 +1,13 @@
+Name: iPhone 12
+Brand: Apple
+Price: 27999
+
+Name: Galaxy S21
+Brand: Samsung
+Price: 23999
+
+Name: P40 Pro
+Brand: Huawei
+Price: 20999
+
+Sum: 72997
